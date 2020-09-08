@@ -1,0 +1,1 @@
+from pyDoujinshi.client import Client
